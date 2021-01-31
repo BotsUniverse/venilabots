@@ -13,8 +13,8 @@
 - 💬 Can Be Found On Telegram As [Venila Bots](t.me/venilabots)
 
 ## My Owners
-1. Rohith [Rohithaditya](t.me/rohithaditya) </b/> Only Telegram </b/>
-2. Parvat [Parvat R](t.me/Parvat_R) </b/> Only Telegram </b/>
+1. Rohith [Rohithaditya](https://telegram.me/rohithaditya) </b/> Only Telegram </b/>
+2. Parvat [Parvat R](https://telegram.me/Parvat_R) </b/> Only Telegram </b/>
 
 ## My Devs
 1. Rohithaditya
